@@ -58,6 +58,9 @@ elif select == 4:
      print(number1, "/", number2, "= ", \
            divide(number1, number2))
 
+
+           python project 2 : password check strength check 
+
 elif select == 5:
      print("(",number1, "+", number2, ")", "/", "2", "= ", \
            avg(number1, number2)) 
